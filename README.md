@@ -1,8 +1,14 @@
+<p align="center">
+    <img src="assets/implicit_cot.svg" width="90%" style="align:center;"/>
+</p>
+
 <h1 align="center">Awesome LLM Implicit Reasoning</h1>
 
 <p align="center">
     <b> A collection of papers that unlock the implicit reasoning ability of LLMs.</b>
 </p>
+
+
 
 ### 2025
 
