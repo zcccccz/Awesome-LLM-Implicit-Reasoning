@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/implicit_cot.svg" width="90%" style="align:center;"/>
+    <img src="assets/implicit_cot.png" width="90%" style="align:center;"/>
 </p>
 
 <h1 align="center">Awesome LLM Implicit Reasoning</h1>
