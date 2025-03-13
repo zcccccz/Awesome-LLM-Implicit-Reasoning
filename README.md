@@ -36,9 +36,9 @@
 
     *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sanjiv Kumar, Sashank J. Reddi.* ICLR'25
 
-7. **[TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067)**
+7. **[CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601)**
 
-    *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li.* Preprint'25
+    *Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang.* Preprint'25
 
 8. **[LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)**
 
